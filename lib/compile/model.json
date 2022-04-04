@@ -1,0 +1,74 @@
+{
+   
+   "next": "https://docs.google.com/uc?export=download&id=10H0zRkShs-z1jGcVN4LLKNGXigErnLmr",
+   "previous": "https://docs.google.com/uc?export=download&id=10H0zRkShs-z1jGcVN4LLKNGXigErnLmr",
+   "course_metadata_json": "https://docs.google.com/uc?export=download&id=10H0zRkShs-z1jGcVN4LLKNGXigErnLmr",
+   "chapter_title": "State Management",
+   "course_identifier": "1001",
+   "course_title": "Flutter Development for Beginners",
+   "pages": [
+       {
+           "pk": "f2627900-8535-4006-975d-4023d87132d9",
+           "is_public": false,
+           "identifier": "cc58f038-91c4-414d-aada-dbd68f219892",
+           "title": "Stateless Widgets",
+           "lesson_text" : "Выберите правильный ответ",
+           "lesson_image" : "",
+           "lesson_video" : "",
+           "fragment": "A Lesson Summary",
+           "quote": "Flutter is easy",
+           "lesson_text_html": "<p>Выберите правильный ответ</p>",
+           "last_modified_time": "2022-01-25T04:01:13.071000Z",
+           "user_identifier": "78cc0c13-dc45-4bf3-bf20-d3150e5a25be",
+           "dartpad":{
+               "gh_owner": "hsurendran",
+               "gh_repo": "flutter_training",
+               "gh_path": "lib/dartpad",
+               "gh_ref": "master"
+            }     
+       },
+       {
+         "pk": "f2627900-8535-4006-975d-4023d87132d9",
+         "is_public": false,
+         "identifier": "cc58f038-91c4-414d-aada-dbd68f219892",
+         "title": "Stateful Widgets",
+         "lesson_text" : "Выберите правильный ответ",
+         "lesson_image" : "",
+         "lesson_video" : "",
+         "fragment": "A Lesson Summary",
+         "quote": "Flutter is easy",
+         "lesson_text_html": "<p>Выберите правильный ответ</p>",
+         "last_modified_time": "2022-01-25T04:01:13.071000Z",
+         "user_identifier": "78cc0c13-dc45-4bf3-bf20-d3150e5a25be",
+         "dartpad":{
+             "gh_owner": "hsurendran",
+             "gh_repo": "flutter_training",
+             "gh_path": "lib/dartpad",
+             "gh_ref": "master"
+          }     
+     },
+     {
+      "pk": "f2627900-8535-4006-975d-4023d87132d9",
+      "is_public": false,
+      "identifier": "cc58f038-91c4-414d-aada-dbd68f219892",
+      "title": "Inherited Widgets",
+      "lesson_text" : "Выберите правильный ответ",
+      "lesson_image" : "",
+      "lesson_video" : "",
+      "fragment": "A Lesson Summary",
+      "quote": "Flutter is easy",
+      "lesson_text_html": "<p>Выберите правильный ответ</p>",
+      "last_modified_time": "2022-01-25T04:01:13.071000Z",
+      "user_identifier": "78cc0c13-dc45-4bf3-bf20-d3150e5a25be",
+      "dartpad":{
+          "gh_owner": "hsurendran",
+          "gh_repo": "flutter_training",
+          "gh_path": "lib/dartpad",
+          "gh_ref": "master"
+       }     
+  }
+ 
+   ]
+}
+
+

@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
-String sentence1 = 'View only screens that dot  not have state.';
-String sentence2 =
+const String sentence1 = 'View only screens that dot  not have state.';
+const String sentence2 =
     'Stays the same no matter what you do. Use this for screens that are not going to change.';
-Color _color1 = Colors.blue;
-Color _color2 = Colors.deepOrangeAccent;
+const Color _color1 = Colors.blue;
+const Color _color2 = Colors.deepOrangeAccent;
 
 class MyApp extends StatelessWidget {
   @override
