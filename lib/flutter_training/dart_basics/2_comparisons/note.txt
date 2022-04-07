@@ -1,0 +1,1 @@
+We utilize comparisons to determine whether one number is less than or bigger than another.

@@ -1,0 +1,1 @@
+Smart programs need conditionals to make decisions. Often we use the <b>if </b> statement to decide whether or not to execute a block of code.

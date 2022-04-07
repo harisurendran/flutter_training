@@ -1,0 +1,1 @@
+Variable are used to store numbers, strings and booleans. In addition we can store other types of data such as lists, objects as well.
